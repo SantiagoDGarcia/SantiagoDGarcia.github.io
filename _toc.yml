@@ -1,2 +1,4 @@
-- file: pagina1
+file: pagina1
+sections:
 - file: pagina2
+- file: README
