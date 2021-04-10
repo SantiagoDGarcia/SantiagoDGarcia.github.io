@@ -1,4 +1,4 @@
-# Capítulo 1 
+# Pagina 2
 Este es el capítulo 1.
 ## Sección 1 
 Esta es la Sección 1 del Capítulo 1.
