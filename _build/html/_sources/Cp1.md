@@ -1,7 +1,14 @@
-# Capítulo 1 
-Este es el capítulo 1.
-## Sección 1 
-Esta es la Sección 1 del Capítulo 1.
+# Información general
+Esta página muestra como crear un jypter book de la manera mas adecuada posible para cada usuario de windows.
+
+## Prerequisitos 
+Python 3.XX instalado
+Cuenta GitHub
+Gitbash instalado
+### Opcional:
+Conocimientos acerca de Markdown (.md)
+Conocimientos acerca de Jupyter Notebooks (.ipythn)
+
 ## Sección 2 
 Esta es la Sección 2 del Capítulo 1.
 ## Sección 3 
