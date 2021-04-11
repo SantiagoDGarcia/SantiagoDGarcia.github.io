@@ -1,0 +1,19 @@
+title: "Como crear un jupyter book y subirlo a gitpages"
+author: Santiago García
+logo: img/logo.png
+
+repository:
+  url: https://github.com/SantiagoDGarcia/SantiagoDGarcia.github.io.git
+  path_to_book: Libro  # Optional path to your book, relative to the repository root
+  branch: master  # Which branch of the repository should be used when creating links (optional)
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: force
+  
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  use_issues_button: true
+  use_repository_button: true
