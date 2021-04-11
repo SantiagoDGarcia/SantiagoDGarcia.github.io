@@ -7,7 +7,7 @@ Esta página muestra como crear un jypter book de la manera mas adecuada posible
 * Gitbash instalado
 ### Opcional
 * Conocimientos acerca de Markdown (.md)
-* Conocimientos acerca de Jupyter Notebooks (.ipythn)
+* Conocimientos acerca de Jupyter Notebooks (.ipynb)
 
 ## Sección 2 
 Esta es la Sección 2 del Capítulo 1.
